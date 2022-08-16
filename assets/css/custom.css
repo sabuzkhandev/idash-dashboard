@@ -1,0 +1,29 @@
+.icon-size {
+  font-size: 32px;
+  color: #a41881;
+}
+.text-color {
+  font-size: 16px;
+  color: #a41881;
+}
+.card-bg {
+  background-color: #a41881;
+  font-size: 16px;
+}
+.head-menu {
+  color: #a41881;
+  font-size: 12px;
+}
+span .head-menu {
+  margin: 0px 10px 0px 0px;
+  padding-top: 5px;
+}
+.award h4 {
+  font-size: 16px;
+  padding-bottom: 0px;
+  margin: 0px;
+}
+
+.pie {
+  height: 405px;
+}
